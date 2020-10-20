@@ -33,3 +33,24 @@
     text-transform: uppercase;
 }
 /* end header  */
+/* banner section  */
+.banner-section{
+    background-color: #E6E6E6;
+}
+.banner-wrapper img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.banner-wrapper{
+    position: relative;
+}
+.list-ul{
+    position: absolute;
+    top: 291px;
+    left: 30px;
+    font-family: 'Roboto';
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+/* banner section end  */
