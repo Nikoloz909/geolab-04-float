@@ -48,9 +48,36 @@
     position: absolute;
     top: 321px;
     left: 30px;
+}
+.list-li{
     font-family: 'Roboto';
     color: #fff;
     font-size: 30px;
     font-weight: bold;
 }
 /* banner section end  */
+/* video section  */
+.video-section{
+    background-color: #363E97;
+}
+.video-section-title{
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Roboto';
+    padding-top: 30px;
+    padding-bottom: 27px;
+    
+}
+.left-block{
+    background-color: #fff;
+    width: 570px;
+    height: 320px;
+    margin-bottom: 90px;
+}
+.right-block{
+    background-color: #fff;
+    width: 570px;
+    height: 320px;
+    margin-bottom: 90px;
+}
+/* video section end   */
