@@ -1,0 +1,35 @@
+/* base classes */
+.container{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+.float-left{
+    float: left;
+
+}
+.float-right{
+    float: right;
+}
+.clearfix{
+    clear: both;
+}
+/* base classes end  */
+/* header  */
+.logo{
+    margin-top: 20px;
+    width: 196px;
+    margin-bottom: 20px;
+}
+.navbar{
+    margin-top: 35px;
+    margin-left: 103px;
+    font-family: 'Roboto';
+}
+.nav-li{
+    padding-left: 30px;
+    font-size: 24px;
+    color: #3D58A6;
+    text-transform: uppercase;
+}
+/* end header  */
